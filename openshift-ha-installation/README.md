@@ -1,18 +1,17 @@
 
-
-#Preso
+# Preso
 https://github.com/debianmaster/talks/blob/master/openshift-ha-installation/presentation.pdf
 
-#Video    
+# Video    
 https://youtu.be/rxtQs_o-ZUM    
 
-#Sample inventory file used in this example
+# Sample inventory file used in this example
 ```sh
 inventory.yaml
 ```
 
 
-#Steps performed.
+# Steps performed.
 
 ```sh
 gcloud compute instances list 
