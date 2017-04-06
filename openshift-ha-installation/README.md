@@ -7,7 +7,9 @@ https://github.com/debianmaster/talks/blob/master/openshift-ha-installation/pres
 https://youtu.be/rxtQs_o-ZUM    
 
 #Sample inventory file used in this example
+```sh
 inventory.yaml
+```
 
 
 #Steps performed.
