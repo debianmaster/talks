@@ -1,4 +1,7 @@
 
+# Meetup
+https://www.meetup.com/openshift-k8s-sf/events/238765326/
+
 # Preso
 https://github.com/debianmaster/talks/blob/master/openshift-ha-installation/presentation.pdf
 
