@@ -102,7 +102,7 @@ ssh-agent $SHELL
 ssh-add ~/id_rsa
 #Create inventory file   
 wget https://raw.githubusercontent.com/debianmaster/talks/master/openshift-ha-installation/inventory.yaml
-ansible-playbook -i inventory.yaml  /usr/share/ansible/openshift-ansible/playbooks/byo/config.yaml
+ansible-playbook -i inventory.yaml  /usr/share/ansible/openshift-ansible/playbooks/byo/config.yml
 ```
 
 
