@@ -1,6 +1,6 @@
-# meetup-topics
+## Meetup-topics
 
-1. Openshift for Developers and Operators  
+### 1. Openshift for Developers and Operators  
    * deploy using s2i  
    * deploy using docker image
    * deploy using binary file WAR
@@ -16,7 +16,7 @@
    * setup autoscaling
    * using configmaps
    
-2. Openshift for MEAN stack developers
+### 2. Openshift for MEAN stack developers
    * deploy nodejs app using s2i
    * deploy mongodb
    * debug nodejs application w/ vscode
@@ -25,9 +25,9 @@
    * source code updates
    * link nodejs application with mongodb
 
-3. Opeshift for Java developers
+### 3. Opeshift for Java developers
    * WIP
-4. Kubernetes / Openshift the hardway
+### 4. Kubernetes / Openshift the hardway
    * Kubernetes / Openshift architecture overview
    * Provision Controllers / workers on GCP.
    * Generate certs
@@ -38,7 +38,7 @@
    * Setup networking
    * Deploy sample app 
 
-5. Microservices in Openshift
+### 5. Microservices in Openshift
    * Deploy mysql
    * Deploy python email service
    * Deploy mongodb
