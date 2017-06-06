@@ -61,5 +61,8 @@
    * Update source and see changes propogating to dev,qa
    * Applying complex configurations to apps across dev/qa/prod
 
-   
+### 7. Istio service mesh for k8s and openshift
+   * Setup Istio service mesh on openshift
+   * Deploy sample microservices application
+   * Demo ciruit breaking & service mesh 
 
