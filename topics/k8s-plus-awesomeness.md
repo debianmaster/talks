@@ -1,4 +1,4 @@
-###  Kubernetes + More awesomeness = Openshift.
+###  Kubernetes + More awesomeness = Openshift Origin.
 
 > In this talk/demo we will see intro to openshift and see in live what additional features openshift brings on top of kubernetes to make it ready ready for production immediately with its rich feature set and UI.
 >  We will see how openshift can enable everyone in an org to leverage containers.   
