@@ -89,3 +89,8 @@
   * Distributed tracing with zipkin, how to achieve this by making simple changes to app.
 * Testing for failures
   * Fault injection
+* Securing services
+  * Isolating networks
+  * Applying k8s network policies 
+  * applying mTLS auth between 
+  * Applying Istio ca for ent-to-end encryption (if this is ready)
