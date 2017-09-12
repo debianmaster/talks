@@ -66,3 +66,16 @@
    * Deploy sample microservices application
    * Demo ciruit breaking & service mesh 
 
+### 8. Microservices with Openshift & Istio
+> While Microservices Development is greatly simplified by Openshift , microservices Ops are greatly simplified by Istio
+> These two are a great combination for rapid development and deployment of microservices. 
+> In this workshop we will be looking at different ways to containerize an application using dev tools provided by openshift and dealing with day 2 operations using Istio along with k8s NetworkPolicies
+> In detail
+> * 4 ways of contaienerizing existing applications
+  * * source 2 image
+  * * from WAR/JAR file
+  * * from Dcokerfile / DockerImage
+> * Deploy a store microservices example
+> * Traffic split canary deployment based on location of user
+> * Observability of microservices using Istio integrations with grafana , prometheous and zipkin
+  * * Getting 
