@@ -74,8 +74,18 @@
 * 4 ways of contaienerizing existing applications
   * source 2 image
   * from WAR/JAR file
-  * from Dcokerfile / DockerImage
+  * from Dockerfile / DockerImage
 * Deploy a store microservices example
-* Traffic split canary deployment based on location of user
+* Understaing Istio Ingress & Egress
+* Understanding Istio Route Rules
+  * Traffic split canary deployment based on location of user
+  * Simple Timeout/Retries
+  * Simple Circuit breaker
+* Understaing Istio Policies
+  * Rate limiting
+  * Getting custom metrics from Mixer
 * Observability of microservices using Istio integrations with grafana , prometheous and zipkin
-  * Getting 
+  * WAlkthrough of Istio-grafana dashboard
+  * Distributed tracing with zipkin, how to achieve this by making simple changes to app.
+* Testing for failures
+  * Fault injection
