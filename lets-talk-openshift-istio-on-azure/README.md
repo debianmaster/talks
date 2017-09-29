@@ -1,4 +1,7 @@
 
+## Slides
+https://github.com/debianmaster/talks/blob/master/lets-talk-openshift-istio-on-azure/microservice-istio-openshift-azure.pdf
+
 ## Video recording    
 https://www.youtube.com/watch?v=t3jTnchAWRM
 
