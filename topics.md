@@ -66,3 +66,31 @@
    * Deploy sample microservices application
    * Demo ciruit breaking & service mesh 
 
+### 8. Microservices with Openshift & Istio
+> While Microservices Development is greatly simplified by Openshift , microservices Ops are greatly simplified by Istio
+> These two are a great combination for rapid development and deployment of microservices. 
+> In this workshop we will be looking at different ways to containerize an application using dev tools provided by openshift and dealing with day 2 operations using Istio along with k8s NetworkPolicies
+> In detail
+* Four ways of contaienerizing existing applications
+  * source 2 image
+  * from WAR/JAR file
+  * from Dockerfile / DockerImage
+* Deploy a store microservices example
+* Understaing Istio Ingress & Egress
+* Understanding Istio Route Rules
+  * Traffic split canary deployment based on location of user
+  * Simple Timeout/Retries
+  * Simple Circuit breaker
+* Understaing Istio Policies
+  * Rate limiting
+  * Getting custom metrics from Mixer
+* Observability of microservices using Istio integrations with grafana , prometheous and zipkin
+  * WAlkthrough of Istio-grafana dashboard
+  * Distributed tracing with zipkin, how to achieve this by making simple changes to app.
+* Testing for failures
+  * Fault injection
+* Securing services
+  * Isolating networks
+  * Applying k8s network policies 
+  * applying mTLS auth between 
+  * Applying Istio ca for ent-to-end encryption (if this is ready)

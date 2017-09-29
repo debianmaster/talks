@@ -15,4 +15,4 @@
 * Setup ci/cd pipeline in minutes
 * Using configmaps to apply complex properties
 * Using In-built Logging / Monitoring 
-* Using in-built Apllication Monitoring Metrics and Distributed Tracing.
+* Monitoring Metrics and Distributed Tracing (if time permits)
