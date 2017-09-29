@@ -1,3 +1,8 @@
 
 ## Video recording    
-https://youtu.be/YL_VWPvJDyw  
+https://www.youtube.com/watch?v=t3jTnchAWRM
+
+## Meetup
+https://www.meetup.com/preview/Seattle-Openshift-Kubernetes-Meetup/events/243535296
+https://www.meetup.com/preview/Red-Hat-Seattle/events/243533596
+
