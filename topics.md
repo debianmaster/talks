@@ -94,3 +94,17 @@
   * Applying k8s network policies 
   * applying mTLS auth between 
   * Applying Istio ca for ent-to-end encryption (if this is ready)
+
+
+### 9. Microservices with Openshift and Istio (short)
+
+There is large focus in industry to make apps cloud native and in this session we will explore tools / methods to build application in cloud native way.
+
+1)  API first design with Open API specification and code generation tools 
+2)  Containerisation of code using source to image method
+3)  Deploying/Scaling containers on kubernetes 
+4)  Securing microservice API's  without writing code into apps using istio-auth
+5)  Visibility and Day 2 operations on microservices using istio and kiali 
+
+In this demo-driven presentation, you will learn how to design, package, deploy, scale, secure and monitor your application using Apicurio, Kubernetes and Istio. 
+
