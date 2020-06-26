@@ -113,7 +113,7 @@ In this demo-driven presentation, you will learn how to design, package, deploy,
 Audience can learn about end to end tools / methods that will help them build application in a cloud native way  using right tools for right tasks with a major focus on productivity and time to market.
 
 
-### CI/CD on kubernetes with Github Actions
+### 10. CI/CD on kubernetes with Github Actions
 
 Github actions is free and an extensible platform to implement CI/CD and more for microservices on kuberentes.
 
