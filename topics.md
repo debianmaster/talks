@@ -117,9 +117,13 @@ Audience can learn about end to end tools / methods that will help them build ap
 
 Github actions is free and an extensible platform to implement CI/CD and more for microservices on kuberentes.
 
-In this session we will discuss on how biqmind implemented continuous integration/delivery pipelines for our internal services, best practices and things we learnt. 
+In this session we will discuss on how biqmind implemented continuous integration/delivery pipelines for our internal services, 
+best practices and things we learnt.
 
-How to build, test, secure and promote container workloads using github actions & kubernetes.
+How to build, test, secure and promote container workloads using github actions & kubernetes.  
+promotion process includes use of using of tags to promote major multi-service releases  and minor patch releases on individual services for more agility.
+
+Using matrix testing to test application on various midddleware versions or different versions of kuberentes in case application is a kubernetes operator.
 
 We will also look into how github actions can be extended to write your own custom actions using Javascript SDK and Dockerfiles.
 
