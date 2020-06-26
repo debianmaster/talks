@@ -113,4 +113,13 @@ In this demo-driven presentation, you will learn how to design, package, deploy,
 Audience can learn about end to end tools / methods that will help them build application in a cloud native way  using right tools for right tasks with a major focus on productivity and time to market.
 
 
+### CI/CD on kubernetes with Github Actions
+
+Github actions is free and an extensible platform to implement CI/CD and more for microservices on kuberentes.
+
+In this session we will discuss on how biqmind implemented continuous integration/delivery pipelines for our internal services, best practices and things we learnt. 
+
+How to build, test, secure and promote container workloads using github actions & kubernetes.
+
+We will also look into how github actions can be extended to write your own custom actions using Javascript SDK and Dockerfiles.
 
